@@ -1,9 +1,9 @@
-# 🌐 Personal Portfolio – Syed Muhammad Ali
+# 🌐 Personal Portfolio – Tejraj Dewangan
 
 This is my personal portfolio website built with **React, Tailwind CSS, Vite, and JavaScript**.  
 It showcases my **skills, education, projects, and experience** as a frontend developer.
 
-🚀 Live Demo: https://ali-portfolio-nine.vercel.app/
+🚀 Live Demo: https://tej-portfolio.vercel.app/
 
 ---
 
@@ -13,7 +13,7 @@ If the projects live preview is not working open portfolio on incogonito tab and
 
 ## 👨‍💻 About Me
 
-Hi, I’m **Syed Muhammad Ali**, a passionate **Frontend Developer** currently pursuing **ADP in Software Engineering** at **Ilma University**.  
+Hi, I’m **Tejraj Dewangan**, a passionate **Frontend Developer** currently working **National Infomatics Centre** at **Raipur, Chhattisgarh**.  
 I enjoy building modern, responsive, and user-friendly web applications.
 
 ---
@@ -22,23 +22,23 @@ I enjoy building modern, responsive, and user-friendly web applications.
 
 - **Languages & Frameworks**: HTML5, CSS3, JavaScript (ES6), React.js, Node.js
 - **Styling**: Tailwind CSS, Bootstrap, MDBootstrap
-- **Tools & Platforms**: GitHub, MS Office, WordPress
-- **Currently Learning**: Full Stack / MERN Stack Development at Saylani SMIT
+- **Tools & Platforms**: GitHub, VSCode 
+- **Currently Learning**: GenAI, Cloud
 
 ---
 
 ## 🎓 Education
 
-- **SSC** – Kamran Public School
-- **Intermediate** – Government Degree Boys College
-- **ADP Software Engineering (Current)** – Ilma University
+- **HSC** – Govt. Hr. Sec. School, Chhuiha
+- **Bachelor of Computer Application** – Durga College, Raipur
+- **Master of Computer Application** – Pt. Ravishankar Shukla University, Raipur
 
 ---
 
 ## 💼 Experience
 
-- MS Office
-- WordPress
+- Full Stack Development
+- Backend Development
 - Frontend Development
 - Academic & Personal Projects
 
@@ -46,10 +46,10 @@ I enjoy building modern, responsive, and user-friendly web applications.
 
 ## 📬 Contact
 
-- 📧 Email: [syeadmuhammedalimazhar@gmail.com](mailto:syeadmuhammedalimazhar@gmail.com)
-- 💻 GitHub: [Syed-Muhammad-Ali-git](https://github.com/Syed-Muhammad-Ali-git?tab=repositories)
-- 🔗 LinkedIn: [Syed Muhammad Ali](https://www.linkedin.com/in/syed-muhammed-ali/)
-- 🌐 Facebook: [Profile](https://web.facebook.com/ali.mazhar.272106)
+- 📧 Email: [syeadmuhammedalimazhar@gmail.com](mailto:tejrajdewangan18@gmail.com)
+- 💻 GitHub: [Syed-Muhammad-Ali-git](https://github.com/99-tejrajdewangan?tab=repositories)
+- 🔗 LinkedIn: [Syed Muhammad Ali](https://www.linkedin.com/in/tejraj-dewangan)
+- 🌐 Facebook: [Profile](https://www.facebook.com/tejraj.dewangan)
 
 ---
 
