@@ -46,10 +46,10 @@ I enjoy building modern, responsive, and user-friendly web applications.
 
 ## 📬 Contact
 
-- 📧 Email: [syeadmuhammedalimazhar@gmail.com](mailto:tejrajdewangan18@gmail.com)
-- 💻 GitHub: [Syed-Muhammad-Ali-git](https://github.com/99-tejrajdewangan?tab=repositories)
-- 🔗 LinkedIn: [Syed Muhammad Ali](https://www.linkedin.com/in/tejraj-dewangan)
-- 🌐 Facebook: [Profile](https://www.facebook.com/tejraj.dewangan)
+- 📧 Email: [tejrajdewangan18@gmail.com](mailto:tejrajdewangan18@gmail.com)
+- 💻 GitHub: [99-tejrajdewangan](https://github.com/99-tejrajdewangan?tab=repositories)
+- 🔗 LinkedIn: [tejraj-dewangan](https://www.linkedin.com/in/tejraj-dewangan)
+- 🌐 Facebook: [tejraj.dewangan](https://www.facebook.com/tejraj.dewangan)
 
 ---
 

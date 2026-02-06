@@ -31,7 +31,7 @@ const Projects = () => {
       category: "web",
       demoUrl: "https://javasscript-assignments.vercel.app/",
       codeUrl:
-        "https://github.com/Syed-Muhammad-Ali-git/Javasscript-assignments",
+        "https://github.com/99-tejrajdewangan/Javasscript-assignments",
       status: "Completed",
       features: ["Core JS concepts", "Logic building", "DOM manipulation"],
     },
@@ -45,7 +45,7 @@ const Projects = () => {
       category: "web",
       demoUrl: "http://tailwind-assignment.surge.sh/youtube-clone/index.html",
       codeUrl:
-        "https://github.com/Syed-Muhammad-Ali-git/Tailwind-Assignments/tree/master/youtube-clone",
+        "https://github.com/99-tejrajdewangan/Tailwind-Assignments/tree/master/youtube-clone",
       status: "Completed",
       features: ["Responsive design", "Modern UI", "Grid & Flexbox layout"],
     },
@@ -58,7 +58,7 @@ const Projects = () => {
       technologies: ["HTML5", "CSS3"],
       category: "web",
       demoUrl: "http://tailwind-assignment.surge.sh/google-ui/index.html",
-      codeUrl: "https://github.com/Syed-Muhammad-Ali-git/Google-Clone",
+      codeUrl: "https://github.com/99-tejrajdewangan/Google-Clone",
       status: "Completed",
       features: ["Pixel-perfect design", "Responsive layout", "Simple UI"],
     },
@@ -70,7 +70,7 @@ const Projects = () => {
       technologies: ["Tailwind CSS", "HTML5"],
       category: "web",
       demoUrl: "https://nexcentclone.surge.sh/",
-      codeUrl: "https://github.com/Syed-Muhammad-Ali-git/Nexcent-Website",
+      codeUrl: "https://github.com/99-tejrajdewangan/Nexcent-Website",
       status: "Completed",
       features: ["Landing page", "Responsive design", "Tailwind utilities"],
     },
@@ -83,7 +83,7 @@ const Projects = () => {
       technologies: ["CSS3", "HTML5"],
       category: "design",
       demoUrl: "http://animation-website.surge.sh/",
-      codeUrl: "https://github.com/Syed-Muhammad-Ali-git/CSS-Animation",
+      codeUrl: "https://github.com/99-tejrajdewangan/CSS-Animation",
       status: "Completed",
       features: ["Keyframe animations", "Hover effects", "Transitions"],
     },
@@ -96,7 +96,7 @@ const Projects = () => {
       technologies: ["React", "Tailwind CSS"],
       category: "web",
       demoUrl: "https://text-changer.surge.sh/",
-      codeUrl: "https://github.com/Syed-Muhammad-Ali-git/Text-Changer-App",
+      codeUrl: "https://github.com/99-tejrajdewangan/Text-Changer-App",
       status: "Completed",
       features: ["Uppercase & lowercase", "Copy text", "Remove spaces"],
     },
@@ -110,7 +110,7 @@ const Projects = () => {
       technologies: ["JavaScript", "HTML5", "CSS3", "Surge.sh"],
       category: "web",
       demoUrl: "http://olx-by-ali.surge.sh/",
-      codeUrl: "https://github.com/Syed-Muhammad-Ali-git/olx-clone", // adjust if your repo name differs
+      codeUrl: "https://github.com/99-tejrajdewangan/olx-clone", // adjust if your repo name differs
       status: "Completed",
       features: [
         "Responsive marketplace layout",
@@ -132,7 +132,7 @@ const Projects = () => {
       technologies: ["React", "API", "Tailwind CSS"],
       category: "web",
       demoUrl: "https://pokemon-clone-lake.vercel.app/",
-      codeUrl: "https://github.com/Syed-Muhammad-Ali-git/Pokemon-App",
+      codeUrl: "https://github.com/99-tejrajdewangan/Pokemon-App",
       status: "Completed",
       features: ["API integration", "Search Pokémon", "Responsive grid"],
     },
@@ -320,7 +320,7 @@ const Projects = () => {
           <p className="text-muted-foreground mt-4">
             Check out my{" "}
             <a
-              href="https://github.com/Syed-Muhammad-Ali-git?tab=repositories"
+              href="https://github.com/99-tejrajdewangan?tab=repositories"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:underline font-medium"
